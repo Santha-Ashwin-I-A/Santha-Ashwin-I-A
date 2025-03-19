@@ -13,19 +13,19 @@ I'm a **Full-Stack Web Developer** who loves creating modern, high-performance a
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### 📌 Pinned Projects:
-🚀 **[Learning Experience Platform (LXP)](https://github.com/yourusername/lxp)**  
+🚀 **[Learning Experience Platform (LXP)](https://github.com/Santha-Ashwin-I-A/lxp)**  
 🔹 AI-powered SWOT analysis for course selection  
 🔹 Skill gap analysis to align with industry standards  
 🔹 Built with **Next.js, Tailwind CSS, and MongoDB**  
 
-🌟 **[Student Info Management App](https://github.com/yourusername/student-info-app)**  
+🌟 **[Student Info Management App](https://github.com/Santha-Ashwin-I-A/student-info-app)**  
 🔹 Designed for institutional use with secure data handling  
 🔹 Next.js backend & frontend with MongoDB integration  
 🔹 Deployed on **Vercel** for seamless performance  
 
 ### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santha-Ashwin-I-A&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santha-Ashwin-I-A&layout=compact&theme=radical)
 
 ### 🤝 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
