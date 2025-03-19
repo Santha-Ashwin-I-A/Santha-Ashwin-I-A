@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Santha Ashwin 👋
 
 ## 🚀 Full-Stack Web Developer | Passionate about Building Scalable Apps
 
