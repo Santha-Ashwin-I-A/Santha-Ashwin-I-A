@@ -13,7 +13,7 @@ I'm a **Full-Stack Web Developer** who loves creating modern, high-performance a
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### 📌 Pinned Projects:
-🚀 **[Learning Experience Platform (LXP)](https://github.com/Santha-Ashwin-I-A/lxp)**  
+🚀 **[Learning Experience Platform (LXP)](https://github.com/Santha-Ashwin-I-A/Lxp)**  
 🔹 AI-powered SWOT analysis for course selection  
 🔹 Skill gap analysis to align with industry standards  
 🔹 Built with **Next.js, Tailwind CSS, and MongoDB**  
@@ -28,8 +28,8 @@ I'm a **Full-Stack Web Developer** who loves creating modern, high-performance a
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santha-Ashwin-I-A&layout=compact&theme=radical)
 
 ### 🤝 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=appveyor&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santha-ashwin/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=appveyor&logoColor=white)]([https://yourportfolio.com](https://my-portfolio-snowy-chi-73.vercel.app/))
 
 ---
 💡 *"Code is like humor. When you have to explain it, it’s bad."* 😆
